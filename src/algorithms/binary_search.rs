@@ -1,1 +1,3 @@
-// CODE FOR BINARY SEARCH
+pub fn hello_world() {
+    println!("inside binary search");
+}
