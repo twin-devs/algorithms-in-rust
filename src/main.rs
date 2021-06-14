@@ -1,7 +1,6 @@
-use algos::algorithms::binary_search;
-use algos::algorithms::merge_sort;
+// use code::algorithms;
+// use code::data_structures;
 
 fn main() {
-    binary_search::hello_world();
-    merge_sort::merge();
+    println!("Hello world!");
 }
